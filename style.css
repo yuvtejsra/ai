@@ -1,0 +1,27 @@
+h1{
+    color:violet;
+}
+h3{
+    color: darkviolet;
+}
+h2{
+    color: red;
+    background-color: black;
+    width: 10%;
+}
+.jif{
+    width: 200px;
+}
+#ohk{
+    float: left;
+}
+#baller{
+    float: right;
+}
+button{
+    background-color: blueviolet;
+    color: goldenrod;
+}
+canvas{
+    border: 5px dotted cadetblue;
+}
